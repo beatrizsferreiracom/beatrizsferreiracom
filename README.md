@@ -9,11 +9,14 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-📫 Contate-me no email: beatrizferreiractt@gmail.com
-😄 Pronomes: Ela/Dela
+
 - ⚡ Fun fact: ...
 -->
+
+🌱 Cursando Análise e Densenvolvimento de Sistemas na Fatec Taquaritinga
+📫 Contate-me no email: beatrizferreiractt@gmail.com
+😄 Pronomes: Ela/Dela
+
 ##
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=AlineNevesdeMelo&show_icons=true&theme=calm_pink" />
