@@ -41,16 +41,4 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/beatriz-s-ferreira-6189112b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-  },
-  "midnight-purple": {
-    title_color: "9745f5",
-    icon_color: "9f4bff",
-    text_color: "ffffff",
-    bg_color: "000000",
-  },
-  calm: {
-    title_color: "e07a5f",
-    icon_color: "edae49",
-    text_color: "ebcfb2",
-    bg_color: "373f51",
-  },
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
