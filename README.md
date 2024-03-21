@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 
 ##
-<a href="https://github.com/anuraghazra/github-readme-stats">
+
   ![Beatriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizsferreiracom&show_icons=true&theme=transparent&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9)
-</a>
+
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsferreiracom&layout=compact&theme=calm_pink&langs_count=8&card_width=150" />
 </a>
