@@ -13,11 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 Cursando Análise e Densenvolvimento de Sistemas na Fatec Taquaritinga
+👩🏻‍💻 Cursando Análise e Densenvolvimento de Sistemas na Fatec Taquaritinga
+
+😄 Pronomes: Ela/Dela
 
 📫 Contate-me no email: beatrizferreiractt@gmail.com
 
-😄 Pronomes: Ela/Dela
+
 
 ##
 <a href="https://github.com/anuraghazra/github-readme-stats">
