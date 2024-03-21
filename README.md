@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩🏻‍💻 Cursando Análise e Densenvolvimento de Sistemas na Fatec Taquaritinga
-
 😄 Pronomes: Ela/Dela
+
+👩🏻‍💻 Cursando Análise e Densenvolvimento de Sistemas na Fatec Taquaritinga
 
 📫 Contate-me no email: beatrizferreiractt@gmail.com
 
