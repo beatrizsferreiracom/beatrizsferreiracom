@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 ##
 
-![Beatriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizsferreiracom&show_icons=true&theme=transparent&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9)
-</a>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsferreiracom&layout=compact&theme=transparent&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9)
+
+![Beatriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizsferreiracom&show_icons=true&theme=transparent&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9)
 
 ##
 <div style="display: inline_block"><br>
