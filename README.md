@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ##
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=beatrizsferreiracom&show_icons=true&theme=calm_pink" />
+  ![Beatriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizsferreiracom&show_icons=true&theme=transparent&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9)
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsferreiracom&layout=compact&theme=calm_pink&langs_count=8&card_width=150" />
@@ -40,11 +40,3 @@ Here are some ideas to get you started:
    <a href = "mailto:beatrizferreiractt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
     <a href="https://www.linkedin.com/in/beatriz-s-ferreira-6189112b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-
-![Beatriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizsferreiracom&show_icons=true&theme=transparent&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9)
-
-github_dark: {
-    title_color: "58A6FF",
-    icon_color: "1F6FEB",
-    text_color: "C3D1D9",
-    bg_color: "0D1117",
