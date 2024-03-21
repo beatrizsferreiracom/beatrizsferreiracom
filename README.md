@@ -41,7 +41,7 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/beatriz-s-ferreira-6189112b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-![Beatriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizsferreiracom&show_icons=true&theme=transparent&title_color=9745f5)
+![Beatriz's GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizsferreiracom&show_icons=true&theme=transparent&title_color=9745f5&icon_color=9f4bff&text_color=ffffff)
 
   title_color: "9745f5",
     icon_color: "9f4bff",
