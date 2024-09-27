@@ -9,7 +9,7 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=beatrizsferreiracom&show_icons=true&title_color: 9745f5&icon_color:9f4bff&text_color: ffffff&bg_color: 000000"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsferreiracom&layout=compact&theme=calm_pink&langs_count=8&card_width=150" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsferreiracom&layout=compact&theme=midnight-purple&langs_count=8&card_width=150" />
 </a>
 
 "midnight-purple": {
