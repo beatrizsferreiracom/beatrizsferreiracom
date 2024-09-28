@@ -1,7 +1,6 @@
 ## Olá! Eu sou a Beatriz!
 
-- 🌱 Estou cursando o 2º semestre de Análise e Desenvolvimento de Sistemas na Fatec Taquaritinga
-- 📫 Contate-me no e-mail: beatrizferreiractt@gmail.com
+- 👩🏻‍💻 Estou cursando o 2º semestre de Análise e Desenvolvimento de Sistemas na Fatec Taquaritinga
 
 ##
 <a href="https://github.com/anuraghazra/github-readme-stats">
