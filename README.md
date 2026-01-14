@@ -12,6 +12,11 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsferreiracom&layout=compact&theme=github_dark&langs_count=8&card_width=150" />
 </a>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beatrizsferreiracom&show_icons=true&theme=github_dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsferreiracom&layout=compact&theme=github_dark&langs_count=8)
+
+
 ##
 Redes sociais e contato:
 <div> 
