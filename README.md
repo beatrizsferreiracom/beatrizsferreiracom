@@ -12,6 +12,10 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsferreiracom&layout=compact&theme=github_dark&langs_count=8&card_width=150" />
 </a>
 
+<a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+</a>
+
 ##
 Redes sociais e contato:
 <div> 
