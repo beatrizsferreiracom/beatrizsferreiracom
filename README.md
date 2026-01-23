@@ -5,7 +5,7 @@
 🚀 Estagiária de Desenvolvimento na Programmers - Beyond IT
 
 ##
-<img width="65%" src="https://github-stats-mu-nine.vercel.app/api?username=beatrizsferreiracom&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1117&theme=algolia&hide_border=true" alt="GitHub Stats"/>
+  <img width="65%" src="https://github-stats-mu-nine.vercel.app/api?username=beatrizsferreiracom&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1117&theme=algolia&hide_border=true" alt="GitHub Stats"/>
 <img width="33%" 
   src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=beatrizsferreiracom&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
 </a>
