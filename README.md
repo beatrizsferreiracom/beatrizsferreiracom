@@ -10,6 +10,10 @@
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
 <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizsferreiracom&layout=compact&theme=github_dark&langs_count=8&card_width=150" />
+
+  <img width="65%" src="https://github-stats-mu-nine.vercel.app/api?username=beatrizsferreiracom&show=reviews,discussions_started,discussions_answered,prs_merged&show_icons=true&include_all_commits=true&bg_color=0D1117&theme=algolia&hide_border=true" alt="GitHub Stats"/>
+<img width="33%" 
+  src="https://github-stats-mu-nine.vercel.app/api/top-langs/?username=beatrizsferreiracom&theme=algolia&hide_border=true&layout=pie&langs_count=8&bg_color=0D1117" alt="Top Languages"/>
 </a>
 
 ##
