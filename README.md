@@ -2,7 +2,7 @@
 
 👩🏻‍💻 Estou cursando o 5º semestre de Análise e Desenvolvimento de Sistemas na Fatec Taquaritinga
 
-🚀 Estagiária de Desenvolvimento na Programmers - Beyond IT
+🚀 Assistant Developer na Programmers - Beyond IT
 
 ##
 <div align="center">
